@@ -3,7 +3,7 @@ const messages = [
     "Again ???",
     "I Meow you...",
     "Stop,Just say Yes",
-    "Let me be your Valentine,Belu",
+    "Let me be your Valentine,Nono",
     "Nono I love you >3",
     "Ok fine, tap No Again ;)...",
     "Just kidding, say yes please! ❤️",
